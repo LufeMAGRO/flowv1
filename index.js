@@ -59,14 +59,14 @@ function createDiagram() {
       </div>
       <div class="firstBallContainer">
         <div class="bola3"></div>
-        <div class="textbola1">
+        <div class="textbola3">
           <p>${paramThreeValue}</p>
           <h4></h4>
         </div>
       </div>
       <div class="firstBallContainer">
         <div class="bola3"></div>
-        <div class="textbola1">
+        <div class="textbola3">
           <p>${paramFourValue}</p>
           <h4></h4>
         </div>
