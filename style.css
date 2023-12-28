@@ -165,7 +165,7 @@ button:active {
   position: absolute;
   border-top: 2px solid black;
   width: 200px;
-  left: 797px;
+  left: 800px;
   height: 0;
   top: 40.5%;
   transform: translateY(-50%);
@@ -176,7 +176,7 @@ button:active {
   position: absolute;
   border-top: 2px solid rgb(177, 177, 177);
   width: 450px;
-  left: 1038px;
+  left: 1040px;
   height: 0;
   top: 40.5%;
   transform: translateY(-50%);
